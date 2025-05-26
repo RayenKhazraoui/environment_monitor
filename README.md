@@ -26,4 +26,4 @@ Self-hosted indoor air quality monitoring system, deployed on a repurposed Linux
 
 Example visualization of real-time sensor data from PostgreSQL:
 
-![Grafana dashboard](image/grafana.PNG)
+![Grafana dashboard](image/grafana.png)
